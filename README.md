@@ -12,7 +12,7 @@ Place this repository in your `~/.vim/bundle` directory.
 
 Place the contents of the `plugin/` directory into your `~/.vim/plugin` directory.
 
-### Usage
+## Usage
 
 To send the current file to Transmit using DockSend, type:
 
