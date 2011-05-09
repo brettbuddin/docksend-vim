@@ -8,9 +8,9 @@ DockSend support for Vim.
 
 Place the contents of this repository into your `~/.vim/bundle/docksend` directory.
 
-### The old way
+### The Old Way
 
-Place the contents of the `plugin/` directory into your `~/.vim/bundle/docksend` directory.
+Place the contents of the `plugin/` directory into your `~/.vim/plugin` directory.
 
 ### Usage
 
