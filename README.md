@@ -6,7 +6,7 @@ DockSend support for Vim.
 
 ### Using [Pathogen](https://github.com/tpope/vim-pathogen) (Suggested)
 
-Place the contents of this repository into your `~/.vim/bundle/docksend` directory.
+Place this repository in your `~/.vim/bundle` directory.
 
 ### The Old Way
 
